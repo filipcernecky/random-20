@@ -1,3 +1,5 @@
+//Привет командир
+//Привет от генерала Стефана
 package src;
 import java.util.Random;
 
